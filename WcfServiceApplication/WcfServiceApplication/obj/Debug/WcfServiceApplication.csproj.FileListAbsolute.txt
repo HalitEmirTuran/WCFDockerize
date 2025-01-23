@@ -1,0 +1,7 @@
+C:\Users\Berkay.KOSAK\source\repos\WcfServiceApplication\WcfServiceApplication\bin\WcfServiceApplication.dll.config
+C:\Users\Berkay.KOSAK\source\repos\WcfServiceApplication\WcfServiceApplication\bin\WcfServiceApplication.dll
+C:\Users\Berkay.KOSAK\source\repos\WcfServiceApplication\WcfServiceApplication\bin\WcfServiceApplication.pdb
+C:\Users\Berkay.KOSAK\source\repos\WcfServiceApplication\WcfServiceApplication\obj\Debug\WcfServiceApplication.csproj.AssemblyReference.cache
+C:\Users\Berkay.KOSAK\source\repos\WcfServiceApplication\WcfServiceApplication\obj\Debug\WcfServiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\Berkay.KOSAK\source\repos\WcfServiceApplication\WcfServiceApplication\obj\Debug\WcfServiceApplication.dll
+C:\Users\Berkay.KOSAK\source\repos\WcfServiceApplication\WcfServiceApplication\obj\Debug\WcfServiceApplication.pdb
